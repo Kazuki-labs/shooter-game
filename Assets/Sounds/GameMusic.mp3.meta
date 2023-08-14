@@ -1,0 +1,9 @@
+d -->
+          <Region Guid="{DE63B342-0E68-425C-A3D7-59B8B1BC21D6}" Name="Display" FriendlyName="Display">
+            <Start>
+              <Event Provider="{9e3b3947-ca5d-4614-91a2-7b624e0e7244}" Id="1" Version="1" />
+            </Start>
+            <Stop>
+              <Event Provider="{9e3b3947-ca5d-4614-91a2-7b624e0e7244}" Id="2" Version="1" />
+            </Stop>
+            <Region Guid="{108CBC92-8335-45C1-B233-E128EF333153}" Name="Vie
